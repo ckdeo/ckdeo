@@ -1,8 +1,8 @@
-Hi, I'm Chandan Deo 
+**Hi, I'm Chandan Deo **
 Humanitarian Information Management | Data Analytics | AI & Data Science
 Senior Information Management and Data Analytics professional with 18+ years of experience supporting humanitarian and development operations across UNICEF, WFP, UNOPS, UNHCR, UNMISS, and inter-agency coordination mechanisms. Passionate about leveraging data, AI, GIS, and visualization technologies to strengthen evidence-based decision making and humanitarian impact.
 
-🚀 Current Focus
+**🚀 Current Focus**
 
 AI for Humanitarian Action
 Machine Learning & Predictive Analytics
@@ -11,7 +11,7 @@ Monitoring, Evaluation & Learning (MEL)
 GIS & Spatial Analytics
 Data Visualization & Storytelling
 
-🛠 Technical Skills
+**🛠 Technical Skills**
 Data Analytics & Visualization
 Power BI
 Tableau
@@ -35,45 +35,45 @@ Data Quality Assurance
 Information Products
 Humanitarian Coordination
 
-📌 Featured Projects
+**📌 Featured Projects**
 ✈️ Flight Fare Prediction using Machine Learning
 MSc Data Science project focused on predicting airline ticket prices using machine learning techniques.
 
-Skills: Python, Pandas, Scikit-learn, Machine Learning
+**Skills: Python, Pandas, Scikit-learn, Machine Learning**
 
-➡️ Repository: Coming Soon
+➡️ **Repository: Coming Soon**
 
 📊 Humanitarian Data Analytics Portfolio
 A collection of dashboards, visualizations, indicators, and analytical products developed for humanitarian operations.
 
 Tools: Power BI, Tableau, Excel, Python
 
-➡️ Repository: Coming Soon
+➡️ **Repository: Coming Soon**
 
 🌍 GIS & Spatial Analytics
 Geospatial analysis, thematic mapping, hotspot analysis, and humanitarian mapping projects.
 
 Tools: ArcGIS, QGIS, GeoPandas
 
-➡️ Repository: Coming Soon
+➡️ **Repository: Coming Soon**
 
 🤖 AI for Humanitarian Action
 Exploring machine learning and AI applications for humanitarian needs assessment, forecasting, and decision support.
 
-➡️ Repository: Coming Soon
+➡️ **Repository: Coming Soon**
 
-🎓 Education
+**🎓 Education**
 MSc Data Science (2024–2026)
 University of East London
 
-Research Areas:
+**Research Areas:**
 
 Machine Learning
 Predictive Analytics
 Data Visualization
 Artificial Intelligence
-
-🌐 Connect With Me
+**
+🌐 Connect With Me**
 LinkedIn: https://www.linkedin.com/in/chandandeo
 GitHub: https://github.com/ckdeo
 
