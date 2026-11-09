@@ -84,6 +84,7 @@ Collection of dashboards, visualizations, indicators, and analytical products de
 **Tools:** Power BI, Tableau, Excel, Python
 
 ➡️ Repository: Coming Soon
+https://github.com/ckdeo/flight-fare-prediction 
 
 ---
 
