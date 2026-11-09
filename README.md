@@ -73,8 +73,8 @@ MSc Data Science project focused on predicting airline ticket prices using machi
 
 **Skills:** Python, Pandas, Scikit-Learn, Machine Learning
 
-➡️ Repository: Coming Soon
-
+➡️ GitHub Repository:
+https://github.com/ckdeo/flight-fare-prediction
 ---
 
 ### 📊 Humanitarian Data Analytics Portfolio
