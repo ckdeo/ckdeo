@@ -85,7 +85,7 @@ Collection of dashboards, visualizations, indicators, and analytical products de
 
 ➡️ Repository: Coming Soon
 https://github.com/ckdeo/flight-fare-prediction 
-
+Machine Learning project for predicting airline ticket prices using historical flight data and predictive analytics.
 ---
 
 ### 🌍 GIS & Spatial Analytics
