@@ -69,23 +69,20 @@ Senior Information Management and Data Analytics professional with over 20 years
 
 ### ✈️ Flight Fare Prediction using Machine Learning
 
-MSc Data Science project focused on predicting airline ticket prices using machine learning techniques.
+Predictive analytics project developed as part of the MSc Data Science programme at the University of East London. The project explores machine learning techniques to estimate airline ticket prices based on travel characteristics, airline information, and temporal factors.
 
-**Skills:** Python, Pandas, Scikit-Learn, Machine Learning
+**Tech Stack:** Python, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
 
-➡️ GitHub Repository:
+**Key Areas:**
+- Data Cleaning & Preparation
+- Exploratory Data Analysis
+- Feature Engineering
+- Machine Learning Modelling
+- Model Evaluation & Performance Analysis
+
+🔗 Repository:
 https://github.com/ckdeo/flight-fare-prediction
----
 
-### 📊 Humanitarian Data Analytics Portfolio
-
-Collection of dashboards, visualizations, indicators, and analytical products developed for humanitarian operations.
-
-**Tools:** Power BI, Tableau, Excel, Python
-
-➡️ Repository: Coming Soon
-https://github.com/ckdeo/flight-fare-prediction 
-Machine Learning project for predicting airline ticket prices using historical flight data and predictive analytics.
 ---
 
 ### 🌍 GIS & Spatial Analytics
