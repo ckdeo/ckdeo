@@ -1,80 +1,121 @@
-**Hi, I'm Chandan Deo **
-Humanitarian Information Management | Data Analytics | AI & Data Science
-Senior Information Management and Data Analytics professional with 18+ years of experience supporting humanitarian and development operations across UNICEF, WFP, UNOPS, UNHCR, UNMISS, and inter-agency coordination mechanisms. Passionate about leveraging data, AI, GIS, and visualization technologies to strengthen evidence-based decision making and humanitarian impact.
+<h1 align="center">Chandan Kumar Deo</h1>
 
-**🚀 Current Focus**
+<h3 align="center">
+Humanitarian Data & AI Specialist
+</h3>
 
-AI for Humanitarian Action
-Machine Learning & Predictive Analytics
-Information Management Systems
-Monitoring, Evaluation & Learning (MEL)
-GIS & Spatial Analytics
-Data Visualization & Storytelling
+<p align="center">
+Information Management • Monitoring, Evaluation & Learning (MEL) • Data Analytics • GIS • Artificial Intelligence
+</p>
 
-**🛠 Technical Skills**
-Data Analytics & Visualization
-Power BI
-Tableau
-Python
-SQL
-Excel Analytics
-GIS & Mapping
-ArcGIS
-QGIS
-GeoPandas
-Spatial Analysis
-AI & Data Science
-Machine Learning
-Predictive Analytics
-Data Mining
-Statistical Analysis
-Natural Language Processing
-Information Management
-Data Governance
-Data Quality Assurance
-Information Products
-Humanitarian Coordination
+<p align="center">
+  <img src="https://img.shields.io/badge/Information_Management-0052CC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data_Analytics-FF6B00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MEL-00875A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GIS-006644?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-D73A49?style=for-the-badge" />
+</p>
 
-**📌 Featured Projects**
-✈️ Flight Fare Prediction using Machine Learning
+---
+
+## 👋 About Me
+
+Senior Information Management and Data Analytics professional with over 20 years of experience supporting humanitarian and development operations across UNICEF, WFP, UNOPS, UNHCR, UNMISS, and inter-agency coordination mechanisms. My work combines information management, monitoring and evaluation, data analytics, GIS, and emerging AI technologies to support evidence-based decision-making and humanitarian action.
+
+---
+
+## 🚀 Current Focus
+
+- Artificial Intelligence for Humanitarian Action
+- Machine Learning & Predictive Analytics
+- Information Management Systems
+- Monitoring, Evaluation & Learning (MEL)
+- GIS & Spatial Analytics
+- Data Visualization & Storytelling
+
+---
+
+## 🛠 Technical Skills
+
+### Data Analytics & Visualization
+- Power BI
+- Tableau
+- Python
+- SQL
+- Excel Analytics
+
+### GIS & Spatial Analysis
+- ArcGIS
+- QGIS
+- GeoPandas
+- Spatial Mapping
+
+### AI & Data Science
+- Machine Learning
+- Predictive Analytics
+- Statistical Analysis
+- Data Mining
+- Natural Language Processing (NLP)
+
+### Information Management
+- Data Governance
+- Data Quality Assurance
+- Information Products
+- Humanitarian Coordination
+
+---
+
+## 📌 Featured Projects
+
+### ✈️ Flight Fare Prediction using Machine Learning
+
 MSc Data Science project focused on predicting airline ticket prices using machine learning techniques.
 
-**Skills: Python, Pandas, Scikit-learn, Machine Learning**
+**Skills:** Python, Pandas, Scikit-Learn, Machine Learning
 
-➡️ **Repository: Coming Soon**
+➡️ Repository: Coming Soon
 
-📊 Humanitarian Data Analytics Portfolio
-A collection of dashboards, visualizations, indicators, and analytical products developed for humanitarian operations.
+---
 
-Tools: Power BI, Tableau, Excel, Python
+### 📊 Humanitarian Data Analytics Portfolio
 
-➡️ **Repository: Coming Soon**
+Collection of dashboards, visualizations, indicators, and analytical products developed for humanitarian operations.
 
-🌍 GIS & Spatial Analytics
-Geospatial analysis, thematic mapping, hotspot analysis, and humanitarian mapping projects.
+**Tools:** Power BI, Tableau, Excel, Python
 
-Tools: ArcGIS, QGIS, GeoPandas
+➡️ Repository: Coming Soon
 
-➡️ **Repository: Coming Soon**
+---
 
-🤖 AI for Humanitarian Action
-Exploring machine learning and AI applications for humanitarian needs assessment, forecasting, and decision support.
+### 🌍 GIS & Spatial Analytics
 
-➡️ **Repository: Coming Soon**
+Geospatial analysis, hotspot mapping, spatial intelligence, and humanitarian mapping projects.
 
-**🎓 Education**
-MSc Data Science (2024–2026)
+**Tools:** ArcGIS, QGIS, GeoPandas
+
+➡️ Repository: Coming Soon
+
+---
+
+## 🎓 Education
+
+### MSc Data Science (2024–2026)
 University of East London
 
-**Research Areas:**
+Research Areas:
 
-Machine Learning
-Predictive Analytics
-Data Visualization
-Artificial Intelligence
-**
-🌐 Connect With Me**
-LinkedIn: https://www.linkedin.com/in/chandandeo
-GitHub: https://github.com/ckdeo
+- Machine Learning
+- Predictive Analytics
+- Artificial Intelligence
+- Data Visualization
 
-Transforming data into actionable insights for humanitarian impact.
+---
+
+## 🌐 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/chandandeo
+- GitHub: https://github.com/ckdeo
+
+---
+
+> Transforming humanitarian data into actionable insights for better decisions and greater impact.
